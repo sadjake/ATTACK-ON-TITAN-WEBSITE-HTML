@@ -4,18 +4,13 @@ ul {
   padding: 0;
   width: 300px;
   background-color: #f1f1f1;
+  border: 1px solid #555;
 }
 
-h1{ 
-	font-size: 40px;
+h1 {
+	font-size: 50px;
 }
 
-.heading {
-	position: fixed;
-	top: 0;
-	left: 500px;
-	text-align: center;
-}
 li a {
   display: block;
   color: #000;
@@ -25,17 +20,45 @@ li a {
 }
 
 li a:hover {
-	background-color: red;
-	color: white;
+  background-color: red;
+  color: white;
 }
-
-li a:hover {
-	background-color: red;
-}
-
-
 
 .active {
-  background-color: #4CAF50;
+  background-color: white;
   color: white;
+}
+
+li {
+  text-align: center;
+  border-bottom: 1px solid #555;
+}
+
+li:last-child {
+  border-bottom: none;
+}
+
+body {
+	margin-bottom: 1000px;
+	background-color: black;
+	background-position: center;					
+	background-repeat: no-repeat;
+	background-image: url('AOT.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+
+
+div.middle {
+	background-color: red;
+	font-family: Cinzel;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	position: middle;
+	margin-top: 200px;
+	margin-bottom: 100px;
+	padding: 20px;
+	border: 10px solid green;
+	border-radius: 0px;
 }

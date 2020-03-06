@@ -3,19 +3,37 @@ ul {
   margin: 0;
   padding: 0;
   width: 300px;
-  background-color: #f1f1f1;
-  border: 1px solid #555;
+  background-color: #877266;
+  border: 5px solid #C42911;
 }
 
 h1 {
 	font-size: 50px;
 	color: black;
 	text-shadow: -10px 10px 15px black;
+	text-align: center;
+}
+
+h2 {
+	color: #C63131;
+	font-size: 30pt;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h3 {
+	color: #C63131;
+	font-size: 22pt;
+}
+
+p {
+	color: black;
+	font-size: 15pt;
 }
 
 li a {
   display: block;
-  color: #000;
+  color: white;
   padding: 8px 16px;
   text-decoration: none;
   height: 60px;
@@ -56,16 +74,73 @@ img {
 	margin-bottom: 1000px;
 }
 
-div.middle {
-	background-color: red;
-	font-family: Cinzel;
-	width: 800px;
-	margin-left: auto;
-	margin-right: auto;
-	position: middle;
-	margin-top: 200px;
-	margin-bottom: 100px;
-	padding: 20px;
-	border: 10px solid green;
-	border-radius: 0px;
+div.plot {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
 }
+
+div.trailer {
+			background-image: url('ODM GEAR.jpg');
+			font-family: Cinzel;
+			width: 580px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+div.picture1 {
+			background-image: url('picture1.jpg');
+			width: 800px;
+			height: 680px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+div.picture2 {
+			background-image: url('picture2.jpg');
+			width: 780px;
+			height: 400px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+div.picture3 {
+			background-image: url('AOTLEGIONS.jpg');
+			width: 530px;
+			height: 760px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+			

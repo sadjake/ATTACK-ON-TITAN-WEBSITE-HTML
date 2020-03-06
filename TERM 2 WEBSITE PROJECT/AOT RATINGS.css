@@ -1,0 +1,107 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  background-color: #877266;
+  border: 5px solid #C42911;
+}
+
+h1 {
+	font-size: 50px;
+	color: black;
+	text-shadow: -10px 10px 15px black;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  height: 60px;
+}
+
+li a:hover {
+  background-color: red;
+  color: white;
+}
+
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+li {
+  text-align: center;
+  border-bottom: 1px solid #555;
+}
+
+li:last-child {
+  border-bottom: none;
+}
+
+body {
+	margin-bottom: 1000px;
+	background-color: black;
+	background-position: center;					
+	background-repeat: no-repeat;
+	background-image: url('AOT.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+img {
+	float: right;
+	margin-bottom: 1000px;
+}
+
+div.middle {
+	background-color: red;
+	font-family: Cinzel;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	position: middle;
+	margin-top: 200px;
+	margin-bottom: 100px;
+	padding: 20px;
+	border: 10px solid green;
+	border-radius: 0px;
+}
+		
+		table, th, td {
+			border: 1px solid black;
+			border-collapse: collapse;
+		}
+		
+		th, td {
+			text-align: center;
+			padding: 5px;
+		}
+		
+		tr:hover {
+			background-color: #dddddd;
+		}
+		
+		td:hover {
+			background-color: #D9CEB2;
+		}
+		
+		tr:nth-child(even) {
+			background-color: #FFF4E3;
+		}
+		
+		tr:nth-child(odd) {
+			background-color: #E6D5C1;
+		}
+		
+		th {
+			background-color: #7A6A53;
+			color: white;
+		}
+		
+		table {
+			width: 400px;
+		}
+		

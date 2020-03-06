@@ -9,7 +9,7 @@ ul {
 
 h1 {
 	font-size: 50px;
-	color: black;
+	color: white;
 	text-shadow: -10px 10px 15px black;
 }
 
@@ -27,7 +27,7 @@ li a:hover {
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: #C63131;
   color: white;
 }
 
@@ -53,19 +53,18 @@ body {
 
 img {
 	float: right;
-	margin-bottom: 1000px;
 }
 
-div.middle {
-	background-color: red;
-	font-family: Cinzel;
-	width: 800px;
-	margin-left: auto;
-	margin-right: auto;
-	position: middle;
-	margin-top: 200px;
-	margin-bottom: 100px;
-	padding: 20px;
-	border: 10px solid green;
-	border-radius: 0px;
+div.attack {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
 }

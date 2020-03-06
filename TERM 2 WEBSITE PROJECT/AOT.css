@@ -9,7 +9,7 @@ ul {
 
 h1 {
 	font-size: 50px;
-	color: black;
+	color: white;
 	text-shadow: -10px 10px 15px black;
 	text-align: center;
 }
@@ -24,11 +24,15 @@ h2 {
 h3 {
 	color: #C63131;
 	font-size: 22pt;
+	border: 3px solid rgba(201 , 190 , 183, 0.9);
+	background-color: rgba(201 , 190 , 183, 0.9);
 }
 
 p {
 	color: black;
 	font-size: 15pt;
+	text-align: center;
+	
 }
 
 li a {
@@ -45,7 +49,7 @@ li a:hover {
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: #C63131;
   color: white;
 }
 
@@ -71,11 +75,10 @@ body {
 
 img {
 	float: right;
-	margin-bottom: 1000px;
 }
 
 div.plot {
-			background-color: rgba(201 , 190 , 183, 0.9);
+			background-color: rgba(201 , 190 , 183, 0.7);
 			font-family: Cinzel;
 			width: 800px;
 			margin-left: auto;

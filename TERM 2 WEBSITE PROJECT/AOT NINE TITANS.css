@@ -13,6 +13,27 @@ h1 {
 	text-shadow: -10px 10px 15px black;
 }
 
+h3 {
+	color: #C63131;
+	font-size: 30pt;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h4 {
+	color: #C63131;
+	font-size: 12pt;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h5 {
+	color: #C63131;
+	font-size: 12pt;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 li a {
   display: block;
   color: white;
@@ -41,7 +62,7 @@ li:last-child {
 }
 
 body {
-	margin-bottom: 1000px;
+	margin-bottom: 100px;
 	background-color: black;
 	background-position: center;					
 	background-repeat: no-repeat;
@@ -55,10 +76,74 @@ img {
 	float: right;
 }
 
-div.attack {
+img.imgattack {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -310px;
+	margin-right: 50px;
+}
+
+img.imgfemale {
+	border: 10px solid red;
+	width: 320px;
+	margin-top: -290px;
+	margin-right: 50px;
+}
+
+img.imgcolossal {
+	border: 10px solid red;
+	width: 300px;
+	margin-top: -330px;
+	margin-right: 50px;
+}
+
+img.imgarmoured {
+	border: 10px solid red;
+	width: 300px;
+	margin-top: -310px;
+	margin-right: 50px;
+}
+
+img.imgbeast {
+	border: 10px solid red;
+	width: 300px;
+	margin-top: -310px;
+	margin-right: 50px;
+}
+
+img.imgjaw {
+	border: 10px solid red;
+	width: 350px;
+	margin-top: -330px;
+	margin-right: 50px;
+}
+
+img.imgcart {
+	border: 10px solid red;
+	width: 350px;
+	margin-top: -310px;
+	margin-right: 50px;
+}
+
+
+img.imgwarhammer {
+	border: 10px solid red;
+	width: 300px;
+	margin-top: -370px;
+	margin-right: 50px;
+}
+
+img.imgfounding {
+	border: 10px solid red;
+	width: 340px;
+	margin-top: -440px;
+	margin-right: 50px;
+}
+
+div.list {
 			background-color: rgba(201 , 190 , 183, 0.9);
 			font-family: Cinzel;
-			width: 800px;
+			width: 300px;
 			margin-left: auto;
 			margin-right: auto;
 			position: middle;
@@ -67,4 +152,144 @@ div.attack {
 			padding: 20px;
 			border: 10px solid red;
 			border-radius: 0px;
+}
+
+div.attack {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 540px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+div.female {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 520px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+div.colossal {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 520px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+div.armoured {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 520px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+div.beast {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 520px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+div.jaw {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 540px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+div.cart {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 560px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+div.warhammer {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 640px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+div.founding {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 700px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+
+p { 
+	font-size: 12pt;
 }

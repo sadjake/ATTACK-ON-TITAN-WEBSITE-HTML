@@ -57,11 +57,10 @@ body {
 
 img {
 	float: right;
-
 }
 
-div.table {
-			background-color: rgba(201 , 190 , 183, 0.9);
+div.personal {
+			background-color: rgba(201 , 190 , 183, 0.7);
 			font-family: Cinzel;
 			width: 800px;
 			margin-left: auto;
@@ -73,3 +72,6 @@ div.table {
 			border: 10px solid red;
 			border-radius: 0px;
 }
+
+p {
+	

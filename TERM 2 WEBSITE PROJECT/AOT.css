@@ -24,7 +24,7 @@ h2 {
 h3 {
 	color: #C63131;
 	font-size: 22pt;
-	border: 3px solid rgba(201 , 190 , 183, 0.9);
+	border: 3px solid rgba(201 , 190 , 183, 0.5);
 	background-color: rgba(201 , 190 , 183, 0.9);
 }
 
@@ -63,7 +63,7 @@ li:last-child {
 }
 
 body {
-	margin-bottom: 1000px;
+	margin-bottom: 100px;
 	background-color: black;
 	background-position: center;					
 	background-repeat: no-repeat;
@@ -92,9 +92,10 @@ div.plot {
 }
 
 div.trailer {
-			background-image: url('ODM GEAR.jpg');
+			background-image: url('erentransform.jpg');
 			font-family: Cinzel;
-			width: 580px;
+			width: 700px;
+			height: 500px;
 			margin-left: auto;
 			margin-right: auto;
 			position: middle;
@@ -121,8 +122,8 @@ div.picture1 {
 
 div.picture2 {
 			background-image: url('picture2.jpg');
-			width: 780px;
-			height: 400px;
+			width: 680px;
+			height: 300px;
 			margin-left: auto;
 			margin-right: auto;
 			position: middle;
@@ -146,4 +147,8 @@ div.picture3 {
 			border: 10px solid red;
 			border-radius: 0px;
 }
-			
+
+div.bob {
+			width: 1000px;
+			position: middle;
+		}

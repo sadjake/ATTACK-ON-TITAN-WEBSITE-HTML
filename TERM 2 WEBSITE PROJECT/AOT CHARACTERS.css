@@ -45,6 +45,217 @@ li:last-child {
   border-bottom: none;
 }
 
+h3 {
+	color: #C63131;
+	font-size: 30pt;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h4 {
+	color: #C63131;
+	font-size: 12pt;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h5 {
+	color: #C63131;
+	font-size: 12pt;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.imgeren {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -260px;
+	margin-right: 50px;
+}
+
+div.eren {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+img.imgmikasa {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -260px;
+	margin-right: 50px;
+}
+div.mikasa {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+img.imgarmin {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -260px;
+	margin-right: 50px;
+}
+div.armin {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+img.imgreiner {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -260px;
+	margin-right: 50px;
+}
+div.reiner {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+img.imgbertholdt {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -260px;
+	margin-right: 50px;
+}
+div.bertholdt {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+img.imgannie {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -260px;
+	margin-right: 50px;
+}
+div.annie {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+img.imgjean {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -260px;
+	margin-right: 50px;
+}
+div.jean {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+img.imgsasha {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -260px;
+	margin-right: 50px;
+}
+div.sasha {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+img.imgconnie {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -260px;
+	margin-right: 50px;
+}
+div.connie {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
 body {
 	margin-bottom: 1000px;
 	background-color: black;

@@ -256,6 +256,27 @@ div.connie {
 			border-radius: 0px;
 }
 
+img.imghistoria {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -260px;
+	margin-right: 10px;
+}
+div.historia {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
 body {
 	margin-bottom: 1000px;
 	background-color: black;

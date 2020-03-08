@@ -46,7 +46,7 @@ li:last-child {
 }
 
 body {
-	margin-bottom: 1000px;
+	margin-bottom: 100px;
 	background-color: black;
 	background-position: center;					
 	background-repeat: no-repeat;
@@ -75,4 +75,5 @@ div.personal {
 }
 
 p {
-	
+	font-size: 15pt;
+}

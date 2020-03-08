@@ -10,7 +10,8 @@ ul {
 h1 {
 	font-size: 50px;
 	color: white;
-	text-shadow: -10px 10px 15px black;
+	text-shadow: -1px 1px 8px black;
+	font-family: MedievalSharp;
 }
 
 h2 { 

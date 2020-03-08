@@ -10,7 +10,8 @@ ul {
 h1 {
 	font-size: 50px;
 	color: white;
-	text-shadow: -10px 10px 15px black;
+	text-shadow: -1px 1px 8px black;
+	font-family: MedievalSharp;
 }
 
 h2 { 
@@ -277,8 +278,92 @@ div.historia {
 			border-radius: 0px;
 }
 
+img.imgymir{
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -280px;
+	margin-right: 40px;
+}
+div.ymir {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+img.imglevi{
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -280px;
+	margin-right: 40px;
+}
+div.levi {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+img.imgerwin {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -280px;
+	margin-right: 40px;
+}
+div.erwin {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
+img.imghange {
+	border: 10px solid red;
+	width: 275px;
+	margin-top: -280px;
+	margin-right: 40px;
+}
+div.hange {
+			background-color: rgba(201 , 190 , 183, 0.9);
+			font-family: Cinzel;
+			width: 800px;
+			height: 350px;
+			margin-left: auto;
+			margin-right: auto;
+			position: middle;
+			margin-top: 10px;
+			margin-bottom: 100px;
+			padding: 20px;
+			border: 10px solid red;
+			border-radius: 0px;
+}
+
 body {
-	margin-bottom: 1000px;
+	margin-bottom: 100px;
 	background-color: black;
 	background-position: center;					
 	background-repeat: no-repeat;

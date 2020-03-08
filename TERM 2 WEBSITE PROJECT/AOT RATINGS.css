@@ -10,7 +10,8 @@ ul {
 h1 {
 	font-size: 50px;
 	color: white;
-	text-shadow: -10px 10px 15px black;
+	text-shadow: -1px 1px 8px black;
+	font-family: MedievalSharp;
 }
 
 li a {
@@ -41,7 +42,7 @@ li:last-child {
 }
 
 body {
-	margin-bottom: 1000px;
+	margin-bottom: 100px;
 	background-color: black;
 	background-position: center;					
 	background-repeat: no-repeat;
@@ -49,6 +50,7 @@ body {
 	background-size: cover;
 	background-attachment: fixed;
 	background-position: center;
+	color: white;
 }
 
 img {
@@ -66,24 +68,23 @@ img {
 		}
 		
 		tr:hover {
-			background-color: #dddddd;
+			background-color: black;
 		}
 		
 		td:hover {
-			background-color: #D9CEB2;
+			background-color: black;
 		}
 		
 		tr:nth-child(even) {
-			background-color: #FFF4E3;
+			background-color: #B34F4F;
 		}
 		
 		tr:nth-child(odd) {
-			background-color: #E6D5C1;
+			background-color: #AC6161;
 		}
 		
 		th {
-			background-color: #7A6A53;
-			color: white;
+			background-color: #D12525;
 		}
 		
 		table {

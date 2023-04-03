@@ -1,1 +1,1 @@
-# Term-2-Website-Project
+# Attack on Titan Website Project
